@@ -1,10 +1,10 @@
-<mxfile host="www.draw.io" modified="2019-11-27T10:12:08.807Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="d1KPP5jjEwZJYahTpT-O" version="12.3.1" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2019-11-27T10:22:39.467Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="8at3WP2MoOU-H3Fa_16s" version="12.3.1" type="github" pages="4">
   <diagram id="Oe9xzcud2dYwxH7Brg_Q" name="General logic">
     <mxGraphModel dx="1357" dy="1946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="m2mV4k9FejmvXmau1tNy-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;glass=0;shadow=0;arcSize=17;dashPattern=1 1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="m2mV4k9FejmvXmau1tNy-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;glass=0;shadow=0;arcSize=17;dashPattern=1 4;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="278" y="-1090" width="530" height="510" as="geometry"/>
         </mxCell>
         <mxCell id="m2mV4k9FejmvXmau1tNy-1" value="&amp;nbsp; Name Server Cluster" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=left;verticalAlign=top;fontSize=18;" parent="1" vertex="1">
@@ -131,7 +131,7 @@
       <root>
         <mxCell id="zwI7Rmu6tQE0ZYtFC7BP-0"/>
         <mxCell id="zwI7Rmu6tQE0ZYtFC7BP-1" parent="zwI7Rmu6tQE0ZYtFC7BP-0"/>
-        <mxCell id="-I_vsNwQ9_ychxVAirG9-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;glass=0;shadow=0;dashPattern=1 1;arcSize=17;strokeWidth=2;" vertex="1" parent="zwI7Rmu6tQE0ZYtFC7BP-1">
+        <mxCell id="-I_vsNwQ9_ychxVAirG9-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;glass=0;shadow=0;dashPattern=1 4;arcSize=17;strokeWidth=2;" vertex="1" parent="zwI7Rmu6tQE0ZYtFC7BP-1">
           <mxGeometry x="310" y="120" width="491" height="510" as="geometry"/>
         </mxCell>
         <mxCell id="-I_vsNwQ9_ychxVAirG9-1" value="&amp;nbsp; Name Server" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=left;verticalAlign=top;fontSize=18;" vertex="1" parent="zwI7Rmu6tQE0ZYtFC7BP-1">
