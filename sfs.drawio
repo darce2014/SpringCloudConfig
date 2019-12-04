@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-04T08:42:51.674Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="En9szwMDhE9ltZTgYI-p" version="12.3.6" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2019-12-04T08:59:59.368Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="LFDAhH2m9PBXQQmv_HF5" version="12.3.6" type="github" pages="4">
   <diagram id="Oe9xzcud2dYwxH7Brg_Q" name="General logic">
-    <mxGraphModel dx="1131" dy="1817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1131" dy="1776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -50,8 +50,8 @@
             <mxPoint x="807.2068965517242" y="-660.1724137931035" as="sourcePoint"/>
             <mxPoint x="716.8620689655172" y="-1084.310344827586" as="targetPoint"/>
             <Array as="points">
-              <mxPoint x="800" y="-660"/>
-              <mxPoint x="800" y="-1095"/>
+              <mxPoint x="790" y="-660"/>
+              <mxPoint x="790" y="-1094"/>
             </Array>
           </mxGeometry>
         </mxCell>
